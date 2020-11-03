@@ -1,0 +1,98 @@
+*{
+				color:white;
+				font-family: acumin-pro, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+body{
+				background-image: url('Ssbgm.jpg') ;
+				background-position: center center ;
+				background-repeat:no-repeat;
+				background-attachment:fixed ;
+				background-size:cover;
+}
+a{
+				text-decoration:none;
+}
+.mname{
+				display:inline;
+				margin-left:10px;
+				margin-top: 10px;
+				padding-top:20px;
+				font-weight:5px;
+				letter-spacing:3px;
+				font-size:17px;
+				opacity:.8;
+}
+.links{
+				font-size:10px;
+				margin-left:17px;
+}
+.fb{
+				margin-left:70px;
+}
+.main{
+				margin-top:110px;
+				margin-left:10px;
+				margin-bottom:300px;
+				
+}
+.head{
+				font-size:23px;
+				letter-spacing:5px;
+				margin-left: 30px;
+}
+.para{
+				margin-top: 30px;
+}
+.para, .rio{
+				padding-top:5px;
+				padding-bottom:2px;
+				margin-left: 30px;
+				font-size:11px;
+				line-height:2.5;
+				width:85%;
+				opacity:.8;
+				letter-spacing:1px;
+}
+.rio{
+				margin-top: 0;
+				margin-bottom: 35px;
+}
+.btn{
+				display:inline;
+				border:3px solid #09223780;
+				padding:0 10px 6px 10px;
+				border-radius: 20px;
+				margin-left: 30px;
+			
+}
+.btn:hover{
+				background-color:#09223780;
+				color:black;
+}
+.stream{
+				color:#09223780;
+				font-size:10px;
+				font-weight:800;
+				letter-spacing:2px;
+				margin-bottom: 5px;
+}
+.fb, .in, .ut, .credit{
+				font-family: 'Oswald', sans-serif;
+				font-weight:200;
+}
+.fb, .in, .ut{
+				letter-spacing:2px;
+				font-size:11px;
+				opacity:.9;
+				margin-top:0;
+				margin-bottom: 10px;
+}
+.credit{
+				margin-top: 100px;
+				text-align:center;
+				font-size:12px;
+				opacity:.5;
+}
